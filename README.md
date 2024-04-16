@@ -18,4 +18,4 @@ A nifty little GUI for node matching on master-slave surfaces, pairing them and 
 
 ## Screenshot
 
-![Screenshot](https://github.com/saiwal/ABAQUS_periodic_boundary_condition_generator/blob/main/screenshot.png?raw=true)
+![Screenshot](https://github.com/saiwal/ABAQUS_periodic_boundary_condition_generator/blob/main/screenshot.png)
